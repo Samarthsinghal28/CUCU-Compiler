@@ -1,0 +1,22 @@
+Integer :  20 
+Variable type : Integer 
+Identifier : a 
+Integer :  10 
+Variable type : Integer 
+Identifier : b 
+Integer :  15 
+Variable type : Integer 
+Identifier : c 
+Integer :  5 
+Variable type : Integer 
+Identifier : d 
+Variable type : Integer 
+Identifier : e 
+Variable : a 
+Variable : b 
+Arithmetic Operator : + 
+Variable : c 
+Arithmetic Operator : * 
+Variable : d 
+Arithmetic Operator : / 
+Identifier : e 
